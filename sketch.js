@@ -93,6 +93,9 @@ function face(){
     fill(255,0,0,100);
     ellipse(270,250,20,30);
     ellipse(340,250,20,30);
+    //hair
+    fill(132, 79, 0);
+    triangle(300, 150, 280, 160, 150, 155);
 }
 function lines(){
     var i = 0;
